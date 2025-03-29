@@ -11,6 +11,7 @@ This Chrome extension uses the Gemini AI model to analyze text on webpages, high
 
 - Go to the [Gemini API page](https://ai.google.dev/gemini-api/docs/api-key)
 - Follow the instructions to generate your API key.
+- Add to .env for Playwright
 
 ### 2. Install Dependencies
 
